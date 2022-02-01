@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🖥️ Languages: Javascript, Python, C
+🖥️ Languages: Javascript, Python, C, Racket
+🖥️ Languages to Learn: Rust
 
 📚 Currently Reading: 
 - Structure and Interpretation of Computer Programs (Gerald Jay Sussman, Hal Abelson)
 - The Practice of Programming (Brian W. Kernighan, Rob Pike)
+- How to Design Programs (Matthias Felleisen)
 
 🌱 Currently Learning: React/Next, DS & A
 
