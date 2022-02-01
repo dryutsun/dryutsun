@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 🖥️ Languages: Javascript, Python, C, Racket
+
 🖥️ Languages to Learn: Rust
 
 📚 Currently Reading: 
