@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 🔭 Currently Working On: Refactoring Personal Full Stack Projects.
 
-🤔 Currently Looking For Help On: Software Design Patterns, Interfaces
+🤔 Currently Looking For Help On: Software Design Patterns, Performance Engineering
 
 ℹ️ About Me:
 - Former non-profit arts admin looking to break into software engineering. 
