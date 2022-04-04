@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - The Practice of Programming (Brian W. Kernighan, Rob Pike)
 - How to Design Programs (Matthias Felleisen)
 
-🌱 Currently Learning: React/Next, DS & A
+🌱 Currently Learning: DS & A
 
 🔭 Currently Working On: Refactoring Personal Full Stack Projects.
 
