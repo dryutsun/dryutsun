@@ -23,14 +23,9 @@ Here are some ideas to get you started:
 📚 Currently Reading: 
 - Structure and Interpretation of Computer Programs (Gerald Jay Sussman, Hal Abelson)
 - The Practice of Programming (Brian W. Kernighan, Rob Pike)
-- How to Design Programs (Matthias Felleisen)
 
-🌱 Currently Learning: DS & A
-
-🔭 Currently Working On: Refactoring Personal Full Stack Projects.
-
-🤔 Currently Looking For Help On: Software Design Patterns, Performance Engineering
+🔭 Currently Working On: Refactoring Personal Projects.
 
 ℹ️ About Me:
-- Former non-profit arts admin looking to break into software engineering. 
+- Former non-profit arts admin with experience in staff development, business process improvement and IT.
 - I enjoy building things and seeing how things work under the hood.
