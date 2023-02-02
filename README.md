@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 
 📚 Currently Reading: 
 - Structure and Interpretation of Computer Programs (Gerald Jay Sussman, Hal Abelson)
-- The Practice of Programming (Brian W. Kernighan, Rob Pike)
+- Designing Data Intensive Applications (Martin Kleppman)
+- The Little Typer (Daniel P. Friedman, David Thrane Christiansen)
+- Crafting Interpreters (Robert Nystrom)
 
-🔭 Currently Working On: Refactoring Personal Projects.
+🔭 Currently Working On: Building novel user interfaces, Digital Signal Processing.
 
 ℹ️ About Me:
 - Former non-profit arts admin with experience in staff development, business process improvement and IT.
